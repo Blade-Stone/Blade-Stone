@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Blade-Stone
 - 👀 I’m interested in ... Front End and back End development.
-- 🌱 I’m currently learning ... HTML and CSS
-- 📫 Email b.tylerstone@outlook.com - Phone (918) 549-1567
+- 🌱 I’m currently learning ... HTML, CSS, AND PYTHON
+- 📫 Email b.tylerstone@outlook.com
 
 <!---
 Blade-Stone/Blade-Stone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
