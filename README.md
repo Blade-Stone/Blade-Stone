@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Blade-Stone
 - 👀 I’m interested in ... Front End and back End development.
-- 🌱 I’m currently learning ... HTML, CSS, AND PYTHON
+- 🌱 I’m currently learning ... HTML, CSS, JS,  AND PYTHON!
 - 📫 Email b.tylerstone@outlook.com
 
 <!---
